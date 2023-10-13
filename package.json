@@ -1,7 +1,7 @@
 {
   "name": "api_justify-text",
   "version": "1.0.0",
-  "description": "An API who justify the text received. 80.000 char free per days.",
+  "description": "An API who justify the text received. 80.000 words free per days.",
   "main": "index.js",
   "scripts": {
     "server": "nodemon ./backend/server.js",
